@@ -2,7 +2,7 @@
 
 **RFM Analysis & K-Means Clustering on real e-commerce data**, with PCA visualization, actionable customer segments, and a **live Flask web app** that predicts a customer's segment from their RFM values.
 
-🔗 **Live demo:** https://your-app-name.onrender.com  *(replace with your Render URL)*
+🔗 **Live demo:** https://ecommerce-customer-segmentation.onrender.com*
 
 ---
 
