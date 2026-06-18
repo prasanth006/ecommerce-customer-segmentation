@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 jupyter
 openpyxl
+flask
+gunicorn
+joblib
