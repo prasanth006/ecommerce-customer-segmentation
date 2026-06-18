@@ -1,0 +1,20 @@
+# --- Jupyter ---
+.ipynb_checkpoints/        # Jupyter's auto-save backups — not real work, just clutter
+
+# --- Python ---
+__pycache__/               # Python's compiled cache files, auto-generated
+*.py[cod]                  # .pyc/.pyo/.pyd compiled files
+*.egg-info/
+
+# --- Virtual environments ---
+venv/  env/  .venv/  ENV/  # your installed packages — huge, and rebuilt from requirements.txt
+
+# --- Large / raw data ---
+data/raw/                            # the 23MB Excel + raw CSV — too big; users download it
+data/processed/cleaned_retail.csv    # the big 392K-row cleaned file — too large to track
+
+# --- OS junk ---
+.DS_Store  Thumbs.db       # Mac/Windows system files nobody needs
+
+# --- IDE settings ---
+.vscode/  .idea/  *.swp    # your personal editor settings
